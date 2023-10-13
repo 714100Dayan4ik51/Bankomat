@@ -18,10 +18,10 @@
 
 #### Скриншоты тестов:
 
-![test 1](file:///C:/Users/%D0%94%D0%B0%D1%8F%D0%BD/Pictures/Screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-13%20192014.png)
+![test 1](https://github.com/714100Dayan4ik51/Bankomat/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-13%20192014.png?raw=true)
 
-![test 2](file:///C:/Users/%D0%94%D0%B0%D1%8F%D0%BD/Pictures/Screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-13%20192148.png)
+![test 2](https://github.com/714100Dayan4ik51/Bankomat/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-13%20192148.png?raw=true)
 
-![test 3](file:///C:/Users/%D0%94%D0%B0%D1%8F%D0%BD/Pictures/Screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-13%20192248.png)
+![test 3](https://github.com/714100Dayan4ik51/Bankomat/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-13%20192248.png?raw=true)
 
-![test 4](file:///C:/Users/%D0%94%D0%B0%D1%8F%D0%BD/Pictures/Screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-13%20192356.png)
+![test 4](https://github.com/714100Dayan4ik51/Bankomat/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-13%20192356.png?raw=true)
